@@ -24,3 +24,8 @@ Then install Flask
 `$ flask run`
 
 You should now be able to see the output in your browser window (at http://127.0.0.1:5000) 
+
+### Screenshot of browser with app running
+
+
+<img width="517" alt="Screenshot 2022-05-12 at 17 59 56" src="https://user-images.githubusercontent.com/20923607/168129511-ac65c1c3-cfc8-466b-ae2d-4ba4c466809f.png">
