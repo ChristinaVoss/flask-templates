@@ -1,6 +1,11 @@
 # Flask Templates
 
-**Setup**
+### App structure
+
+<img width="618" alt="Screenshot 2022-05-12 at 09 37 39" src="https://user-images.githubusercontent.com/20923607/168029003-767cba25-2f86-41e1-a0d9-7d840137655c.png">
+
+
+### Setup
 
 First create and activate some form of environment to store your dependencies. I like Anaconda:
 
@@ -14,7 +19,7 @@ Then install Flask
 
 `$ pip install Flask`
 
-**Run the app**
+### Run the app
 
 `$ flask run`
 
